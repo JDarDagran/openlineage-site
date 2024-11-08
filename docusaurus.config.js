@@ -44,7 +44,7 @@ const config = {
     title: 'OpenLineage',
     tagline: 'OpenLineage',
     url: 'https://openlineage.io',
-    baseUrl: '/',
+    baseUrl: '/openlineage-site/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'throw',
     favicon: 'img/favicon.ico',
